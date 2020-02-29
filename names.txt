@@ -1,6 +1,8 @@
+
 Rurick Maqueo Poisot rurick.maqueo@gmail.com @rurickdev
-<<<<<<< HEAD
-Cristian Marlene Garcia Molina cristiangm96@hotmail.com @Mar0903
-=======
 Josué Xicotencatl Avalos josue.xicotencatl.a@gmail.com @JosueAvalos
->>>>>>> master
+Gerardo Fernández Lucero gerardo_fl_ssc@outlook.com ssc-gerardo
+Fernanda Palacios Vera fernandapalacios.dev@gmail.com @EveFer
+Gabriela Elvira Camarillo Luna gcamarilloluna@gmail.com @Elvira-Camarillo
+Cristian Marlene Garcia Molina cristiangm96@hotmail.com @Mar0903
+
