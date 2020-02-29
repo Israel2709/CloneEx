@@ -1,2 +1,6 @@
 Rurick Maqueo Poisot rurick.maqueo@gmail.com @rurickdev
+<<<<<<< HEAD
 Cristian Marlene Garcia Molina cristiangm96@hotmail.com @Mar0903
+=======
+Josué Xicotencatl Avalos josue.xicotencatl.a@gmail.com @JosueAvalos
+>>>>>>> master
